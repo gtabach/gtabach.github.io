@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV (PDF)"
-    url: https://gtabach.github.io/assets/Tabachnick CV.pdf
+    url: /assets/Tabachnick_CV.pdf
   - title: "Research"
     url: /research/
   - title: "Other"
