@@ -22,7 +22,7 @@
     display: flex;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: start;
+    justify-content: space-between;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -70,6 +70,10 @@
 
     @include breakpoint($small) {
       float: right;
+    }
+
+    .visible-links {
+     justifycontent: start;
     }
   }
 
