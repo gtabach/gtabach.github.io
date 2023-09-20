@@ -71,10 +71,6 @@
     @include breakpoint($small) {
       float: right;
     }
-
-    .visible-links {
-     justifycontent: start;
-    }
   }
 
   ul {
