@@ -1,5 +1,5 @@
 ---
-layout: single
+permalink: /
 ---
 
 Welcome! I am currently a postdoc at the [Center for Cognitive Science of Language at the University of Nova Gorica](https://www.ung.si/en/research/center-for-cognitive-science-of-language/). I recently graduated from the [Department of Linguistics at New York University](https://as.nyu.edu/content/nyu-as/as/departments/linguistics/homepage.html). My advisor was [Maria Gouskova](http://gouskova.com/).

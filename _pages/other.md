@@ -1,3 +1,7 @@
+---
+permalink: /other/
+---
+
 From 2013 to 2017, I visited [Every Public Transit Stop in Prague](https://everypublictransitstopinprague.tumblr.com/).
 
 With [Emma Claire Foley](https://emmaclairefoley.com/), I wrote a [profile](https://ingeveb.org/blog/long-lunches-at-cafe-jerusalem) of Cafe Jerusalem, the best Jewish restaurant in Lviv, Ukraine for In geveb.

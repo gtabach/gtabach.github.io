@@ -1,1 +1,5 @@
+---
+permalink: /research/
+---
+
 Coming soon!
