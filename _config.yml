@@ -20,7 +20,7 @@ title                    : "About me"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Guy Tabachnick"
-description              : "Morphologist"
+description              : "Linguist"
 url                      : "https://gtabach.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gtabach/gtabach.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
