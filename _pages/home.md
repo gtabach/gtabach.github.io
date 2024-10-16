@@ -7,6 +7,7 @@ Welcome! I am currently a postdoc at the [Center for Cognitive Science of Langua
 My primary research interest is the study of _gradient_ and _variable_ patterns in two domains: 
 1. The organization of _morphological paradigms_. Specifically, I investigate how speakers use information about one inflected form of a lexical item to determine other inflected forms of the same lexical item).
 2. Properties of _pronominal clitics_, in particular their relative ordering and their behavior in embedded infinitival clauses.
+
 I work primarily on Czech and Slovenian, and secondarily on Hungarian, Russian, and English.
 
 My name is pronounced [gaɪ təˈbætʃnɪk].
