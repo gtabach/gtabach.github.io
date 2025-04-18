@@ -10,4 +10,4 @@ My primary research interest is the study of _gradient_ and _variable_ patterns 
 
 I work primarily on Czech and Slovenian, and secondarily on Hungarian, Russian, and English.
 
-My name is pronounced [gaɪ təˈbætʃnɪk].
+My name is pronounced [gaɪ təˈbætʃnɪk]. My last name ends in _-ni**c**k_.
