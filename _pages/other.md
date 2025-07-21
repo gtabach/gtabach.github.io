@@ -8,4 +8,4 @@ With [Emma Claire Foley](https://emmaclairefoley.com/), I wrote a [profile](http
 
 In my free time I use [NYC’s trove of geospatial data](https://opendata.cityofnewyork.us/) (and other open data sources) to make visualizations.<!-- Here is a map of Queens buildings color-coded by house number.-->
 
-I am a poor but improving accordion player.
+<!--I am a poor but improving accordion player.-->
